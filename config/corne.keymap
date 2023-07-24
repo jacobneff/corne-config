@@ -46,10 +46,10 @@
 
         default_layer {
             bindings = <
- &kp PLUS       &kp Q        &kp W       &kp F         &kp P      &kp B          &kp J         &kp L       &kp U        &kp Y    &kp SEMI   &kp PIPE
-  &kp ESC  &hm LGUI A  &hm LCTRL R  &hm LALT S  &hm LSHIFT T      &kp G          &kp M  &hm RSHIFT N  &hm RALT E  &hm RCTRL I  &hm LGUI O  &kp EQUAL
-&kp MINUS       &kp Z        &kp X       &kp C         &kp D      &kp V          &kp K         &kp H   &kp COMMA      &kp DOT    &kp FSLH  &kp UNDER
-                                       &kp SQT       &kp TAB  &lt 2 RET    &lt 1 SPACE      &kp BSPC   &kp GRAVE
+&kp KP_PLUS       &kp Q        &kp W       &kp F         &kp P      &kp B          &kp J         &kp L       &kp U        &kp Y    &kp SEMI   &kp PIPE
+    &kp ESC  &hm LGUI A  &hm LCTRL R  &hm LALT S  &hm LSHIFT T      &kp G          &kp M  &hm RSHIFT N  &hm RALT E  &hm RCTRL I  &hm LGUI O  &kp EQUAL
+  &kp MINUS       &kp Z        &kp X       &kp C         &kp D      &kp V          &kp K         &kp H   &kp COMMA      &kp DOT    &kp FSLH  &kp UNDER
+                                         &kp SQT       &kp TAB  &lt 2 RET    &lt 1 SPACE      &kp BSPC   &kp GRAVE
             >;
         };
 
@@ -64,10 +64,10 @@
 
         raise_layer {
             bindings = <
-&trans  &trans    &trans  &kp SINGLE_QUOTE        &kp DOUBLE_QUOTES     &trans      &trans                 &kp GRAVE  &kp TILDE  &kp LPAR  &kp RPAR  &trans
-&trans  &kp N1    &kp N2            &kp N3  &hm LEFT_SHIFT NUMBER_4     &kp N5      &kp N6  &hm RIGHT_SHIFT NUMBER_7     &kp N8    &kp N9    &kp N0  &trans
-&trans  &trans  &kp PLUS         &kp MINUS                &kp EQUAL  &kp UNDER    &kp LBKT                  &kp RBKT   &kp BSLH  &kp LBRC  &kp RBRC  &trans
-                                    &trans                   &trans     &trans      &trans                    &trans     &trans
+&trans  &trans    &trans  &kp SINGLE_QUOTE        &kp DOUBLE_QUOTES     &trans      &trans                  &kp LPAR  &kp RPAR    &trans    &trans  &trans
+&trans  &kp N1    &kp N2            &kp N3  &hm LEFT_SHIFT NUMBER_4     &kp N5      &kp N6  &hm RIGHT_SHIFT NUMBER_7    &kp N8    &kp N9    &kp N0  &trans
+&trans  &trans  &kp PLUS         &kp MINUS                &kp EQUAL  &kp UNDER    &kp LBKT                  &kp RBKT  &kp BSLH  &kp LBRC  &kp RBRC  &trans
+                                    &trans                   &trans     &trans      &trans                    &trans    &trans
             >;
         };
 
