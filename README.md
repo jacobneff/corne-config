@@ -19,7 +19,7 @@ There was another problem I had as well which may have been the tipping stone fo
 
 When comparing the qwerty layout to more modern typing layouts designed for maximum home row usage and efficiency, the results are obvious that typing on the default keyboard layout only makes your fingers have to do more work. This is when I decided that using the Colemak-dh layout would be the best for me because it keeps a lot of the essential shortcuts in the same positions of the qwerty layout like cut, copy, paste, and undo and redo while making the adjustments of other commonly typed characters to be in more ergonomic positions.
 
-![maxresdefault](https://github.com/jacobneff/corne-config/assets/81664204/dec73f7a-18b5-445f-adee-5e530421031d)
+![image](https://github.com/jacobneff/corne-config/assets/81664204/5f5d29e3-49db-422f-a243-aaf2725d4098)
 
 
 ## Credit
