@@ -13,7 +13,14 @@ As you can see from the graph, not only my love for typing increased but my spee
 
 As I was typing so often, I eventually developed a perfect touch typing ability and reached speeds of up to 130 wpm. However, I was still only typing with about 6 of my fingers on average. Sometimes, depending on previous letters typed, I would use a different finger than usual to type a letter because that previous character caused my hands to slightly shift along the keyboard. This was because I had no set position which will later cause me some problems as you will find out. I was really good at this adjustment though and got used to it, but this caused me a major headache for my future typing.
 
-I was ready to keep on increasing my speed. I would occasionally come across videos seeing people type above 200 wpm. I wanted to be able to do that too! Unfortunately, whenever I tried to increase my speed, my accuracy took major hits because of my unique typing habits. I was unable to progress my typing speed.  
+I was ready to keep on increasing my speed. I would occasionally come across videos seeing people type above 200 wpm. I wanted to be able to do that too! Unfortunately, whenever I tried to increase my speed, my accuracy took major hits because of my unique typing habits. I was unable to progress my typing speed.
+
+There was another problem I had as well which may have been the tipping stone for me. Typing was becoming uncomfortable, especially for longer periods of time. I could not type long papers for school without having to take breaks due to serious discomfort. I believe this was caused mainly because of my bad typing technique, but also by using the default qwerty layout on my keyboard. I read a lot about this topic and watched several videos gathering opinions and came to the conclusion that my layout can be one of the main causes of my discomfort in typing.
+
+When comparing the qwerty layout to more modern typing layouts designed for maximum home row usage and efficiency, the results are obvious that typing on the default keyboard layout only makes your fingers have to do more work. This is when I decided that using the Colemak-dh layout would be the best for me because it keeps a lot of the essential shortcuts in the same positions of the qwerty layout like cut, copy, paste, and undo and redo while making the adjustments of other commonly typed characters to be in more ergonomic positions.
+
+![maxresdefault](https://github.com/jacobneff/corne-config/assets/81664204/dec73f7a-18b5-445f-adee-5e530421031d)
+
 
 ## Credit
 
