@@ -6,7 +6,7 @@ I remember like it was yesterday when I bought my first [mechanical keyboard](ht
 My interest in typing grew from seeing my brother play a typing game called Nitro Type. My interest only grew and grew while I was practicing my typing on Nitro Type or I was trying to type in the Minecraft multiplayer chat as fast as possible. 
 
 ![image](https://github.com/jacobneff/corne-config/assets/81664204/4b5fff4d-7c3b-423d-ac97-468023c97f02)
-*My progress when I was 10, in 2014.*
+*My progress when I was 10, in 2014. (dip is letting family type on my account)*
 
 As you can see from the graph, not only my love for typing increased but my speed as well. I was starting to get the hang of it. I was racing people and trying to get faster all the time, but there was one problem; my typing technique was not efficient.
 
