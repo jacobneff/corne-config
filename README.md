@@ -10,11 +10,11 @@ My interest in typing grew from seeing my brother play a typing game called Nitr
 
 As you can see from the graph, not only my love for typing increased but my speed as well. I was starting to get the hang of it. I was racing people and trying to get faster all the time, but there was one problem; my typing technique was not efficient.
 
-As I was typing so often, I eventually developed a perfect touch typing ability and reached speeds of up to 130 wpm. However, I was still only typing with about 6 of my fingers on average. Sometimes, depending on previous letters typed, I would use a different finger than usual to type a letter because that previous character caused my hands to slightly shift along the keyboard because I had no set position. I was really good at this adjustment though and got used to it, but this caused me a major headache for my future typing. 
+As I was typing so often, I eventually developed a perfect touch typing ability and reached speeds of up to 130 wpm. However, I was still only typing with about 6 of my fingers on average. Sometimes, depending on previous letters typed, I would use a different finger than usual to type a letter because that previous character caused my hands to slightly shift along the keyboard. This was because I had no set position which will later cause me some problems as you will find out. I was really good at this adjustment though and got used to it, but this caused me a major headache for my future typing. 
 
 I was ready to keep on increasing my speed. I would occasionally come across videos seeing people type above 200 wpm. I wanted to be able to do that too! Unfortunately, whenever I tried to increase my speed, my accuracy took major hits because of my unique typing habits. I was unable to progress my typing speed.  
 
-## Credit
+## Creditt
 * foostan's [crkbd](https://github.com/foostan/crkbd) design files
 * [typeractive](https://typeractive.xyz/) for providing a build kit
 
