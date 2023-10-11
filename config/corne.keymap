@@ -18,9 +18,7 @@
             tapping-term-ms = <200>;
             quick-tap-ms = <0>;
             flavor = "tap-preferred";
-            bindings =
-                <&kp>,
-                <&kp>;
+            bindings = <&kp>, <&kp>;
         };
 
         conditional_layers {
@@ -36,9 +34,14 @@
     combos {
         compatible = "zmk,combos";
 
-        new_combo {
+        gaming-qwerty {
             bindings = <&tog 4>;
             key-positions = <0 5>;
+        };
+
+        alphabet {
+            bindings = <&tog 5>;
+            key-positions = <12 17>;
         };
     };
 
@@ -92,15 +95,15 @@
             label = "gaming";
         };
 
-        macros {
+        alphabet {
             bindings = <
-&trans  &trans  &trans  &trans  &kp NUMBER_1  &kp NUMBER_4    &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &kp NUMBER_2  &kp NUMBER_5    &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &kp NUMBER_3  &kp NUMBER_6    &trans  &trans  &trans  &trans  &trans  &trans
-                        &trans  &trans        &trans          &trans  &trans  &trans
+&kp ESC    &kp A  &kp B  &kp C  &kp D    &none        &none      &kp H     &kp G  &kp F  &kp E  &none
+&kp CAPS   &kp I  &kp J  &kp K  &kp L    &none        &none      &kp P     &kp O  &kp N  &kp M  &none
+&kp LSHFT  &kp Q  &kp R  &kp S  &kp T    &kp Y        &kp Z      &kp X     &kp W  &kp V  &kp U  &none
+                         &none  &kp TAB  &kp ENTER    &kp SPACE  &kp BSPC  &none
             >;
 
-            label = "macro";
+            label = "alphabet";
         };
     };
 };
