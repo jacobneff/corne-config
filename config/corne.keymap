@@ -20,6 +20,7 @@
             flavor = "tap-preferred";
             bindings = <&kp>, <&kp>;
         };
+
         shm: shift_homerow_mod {
             compatible = "zmk,behavior-hold-tap";
             label = "SHIFT_HOMEROW_MOD";
@@ -77,9 +78,9 @@
 
         raise_layer {
             bindings = <
-&trans  &trans  &trans     &kp SINGLE_QUOTE  &kp DOUBLE_QUOTES        &trans    &trans  &kp LPAR                  &kp RPAR         &trans         &trans  &trans
-&trans  &kp N1  &kp N2     &kp N3            &hm LEFT_SHIFT NUMBER_4  &kp N5    &kp N6  &hm RIGHT_SHIFT NUMBER_7  &kp N8           &kp N9         &kp N0  &trans
-&trans  &trans  &kp GRAVE  &kp LEFT_BRACKET  &kp RIGHT_BRACKET        &trans    &trans  &kp LEFT_BRACE            &kp RIGHT_BRACE  &kp BACKSLASH  &trans  &trans
+&trans  &trans  &trans     &kp SINGLE_QUOTE  &kp DOUBLE_QUOTES        &trans    &trans  &kp LPAR                  &kp RPAR         &trans  &trans                &trans
+&trans  &kp N1  &kp N2     &kp N3            &hm LEFT_SHIFT NUMBER_4  &kp N5    &kp N6  &hm RIGHT_SHIFT NUMBER_7  &kp N8           &kp N9  &kp N0                &trans
+&trans  &trans  &kp GRAVE  &kp LEFT_BRACKET  &kp RIGHT_BRACKET        &trans    &trans  &kp LEFT_BRACE            &kp RIGHT_BRACE  &trans  &kp NON_US_BACKSLASH  &trans
                            &trans            &trans                   &trans    &trans  &trans                    &trans
             >;
         };
