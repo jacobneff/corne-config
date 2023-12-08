@@ -50,7 +50,7 @@
         };
 
         alphabet {
-            bindings = <&tog 5>;
+            bindings = <&tog 0>;
             key-positions = <12 17>;
         };
     };
@@ -103,17 +103,6 @@
             >;
 
             label = "qwerty";
-        };
-
-        alphabet {
-            bindings = <
-&kp ESC    &kp A  &kp B  &kp C  &kp D    &none        &none      &kp H     &kp G  &kp F  &kp E  &none
-&kp CAPS   &kp I  &kp J  &kp K  &kp L    &none        &none      &kp P     &kp O  &kp N  &kp M  &none
-&kp LSHFT  &kp Q  &kp R  &kp S  &kp T    &kp Y        &kp Z      &kp X     &kp W  &kp V  &kp U  &none
-                         &none  &kp TAB  &kp ENTER    &kp SPACE  &kp BSPC  &none
-            >;
-
-            label = "alphabet";
         };
     };
 };
