@@ -30,5 +30,4 @@ When comparing the qwerty layout to more modern typing layouts designed for maxi
 ## Photos
 
 ![corne-top-both](https://github.com/jacobneff/corne-config/assets/81664204/a79166f5-6365-4841-b9aa-6d232b0d23cb)
-![corne-front-single](https://github.com/jacobneff/corne-config/assets/81664204/77fe6c7d-fb9c-4ad5-813c-35ce1d9c925a)
 ![corne-front-both](https://github.com/jacobneff/corne-config/assets/81664204/484fff0f-fb06-4245-86e9-ff775f25899e)
