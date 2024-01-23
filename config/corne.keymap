@@ -53,6 +53,21 @@
             bindings = <&tog 0>;
             key-positions = <12 17>;
         };
+
+        doub_quote {
+            bindings = <&kp DQT>;
+            key-positions = <38 28>;
+        };
+
+        sing_quote {
+            bindings = <&kp SQT>;
+            key-positions = <38 27>;
+        };
+
+        b_slsh {
+            bindings = <&kp BSLH>;
+            key-positions = <38 31>;
+        };
     };
 
     keymap {
@@ -78,9 +93,9 @@
 
         raise_layer {
             bindings = <
-&trans  &trans  &kp LBKT   &kp LBRC  &kp LPAR                 &trans    &trans  &kp RPAR                  &kp RBRC       &kp RBKT  &trans  &trans
-&trans  &kp N1  &kp N2     &kp N3    &hm LEFT_SHIFT NUMBER_4  &kp N5    &kp N6  &hm RIGHT_SHIFT NUMBER_7  &kp N8         &kp N9    &kp N0  &trans
-&trans  &trans  &kp GRAVE  &kp SQT   &kp DOUBLE_QUOTES        &trans    &trans  &kp TILDE                 &kp BACKSLASH  &trans    &trans  &trans
+&trans  &trans  &kp LBKT   &kp LBRC  &kp LPAR                 &trans    &trans  &kp RPAR                  &kp RBRC  &kp RBKT  &trans  &trans
+&trans  &kp N1  &kp N2     &kp N3    &hm LEFT_SHIFT NUMBER_4  &kp N5    &kp N6  &hm RIGHT_SHIFT NUMBER_7  &kp N8    &kp N9    &kp N0  &trans
+&trans  &trans  &kp GRAVE  &kp SQT   &kp DOUBLE_QUOTES        &trans    &trans  &kp BACKSLASH             &trans    &trans    &trans  &trans
                            &trans    &trans                   &trans    &trans  &trans                    &trans
             >;
         };
