@@ -53,21 +53,6 @@
             bindings = <&tog 0>;
             key-positions = <12 17>;
         };
-
-        doub_quote {
-            bindings = <&kp DQT>;
-            key-positions = <38 28>;
-        };
-
-        sing_quote {
-            bindings = <&kp SQT>;
-            key-positions = <38 27>;
-        };
-
-        b_slsh {
-            bindings = <&kp BSLH>;
-            key-positions = <38 31>;
-        };
     };
 
     keymap {
