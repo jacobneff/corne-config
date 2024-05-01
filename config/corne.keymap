@@ -51,9 +51,9 @@
 
         monkeytype {
             bindings = <&tog 5>;
-            key-positions = <19 31 16>;
+            key-positions = <16 18 30>;
             slow-release;
-            require-prior-idle-ms = <500>;
+            require-prior-idle-ms = <800>;
             timeout-ms = <500>;
         };
     };
